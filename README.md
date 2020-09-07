@@ -1,6 +1,6 @@
 # Collision video generator
 
-
+![Screenshot](https://github.com/kuoyaoming/collision_video_generator/blob/master/image/Screenshot.png)
 # Introduction
 
 This tool can generate a different type of collision video.  Control one EGO vehicle and one NPC vehicle to perform a different type of collision by using python API Pre-written script based on the LGSVL simulator. the video default resolution is 1920 * 1080 50fps. Users can choose five different types of collisions and four environment parameters.
