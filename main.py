@@ -183,7 +183,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.pushButton_play.setText(_translate("MainWindow", "Play"))
         self.label_title.setText(_translate(
-            "MainWindow", "LGSVL SIMULATOR TEST"))
+            "MainWindow", "Collision Video Generator"))
         self.label_event.setText(_translate(
             "MainWindow", "Scenarios Choose :"))
         self.comboBox_Speed.setItemText(0, _translate("MainWindow", "40 km/h"))
@@ -197,10 +197,10 @@ class Ui_MainWindow(object):
         self.label_rain.setText(_translate("MainWindow", "Rain Level :"))
         self.label_wetness.setText(_translate("MainWindow", "Wetness Level :"))
         self.label_time.setText(_translate("MainWindow", "Time Choose :"))
-        self.checkBox_video.setText(_translate("MainWindow", "Save Vidoe?"))
+        self.checkBox_video.setText(_translate("MainWindow", "Save record video"))
         self.label_pedstrain.setText(_translate(
             "MainWindow", "Random pedstrian :"))
-        self.checkBox_json.setText(_translate("MainWindow", "Save josn?"))
+        self.checkBox_json.setText(_translate("MainWindow", "Save JSON"))
         self.label_fog.setText(_translate("MainWindow", "Fog Level :"))
         self.label_speed.setText(_translate("MainWindow", "Speed Choose :"))
         self.label_vehicle.setText(_translate("MainWindow", "Random vehicle:"))
